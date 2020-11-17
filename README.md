@@ -14,3 +14,5 @@ JAVA와 DATABASE를 통해 이를 구현해보았다.
 thread 추가만으로는 한계가 있다고 생각하여, 새로운 class를 생성하여 따로 main클래스를 실행시켜주었다.
 
 이 외에도, UI적인 부분들은 더 보완해야 할 것이라 생각한다.
+## JABADOC
+[AII로!!]https://choyongmun.github.io/Project01/Project01/doc/index.html
