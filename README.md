@@ -15,4 +15,4 @@ thread 추가만으로는 한계가 있다고 생각하여, 새로운 class를 �
 
 이 외에도, UI적인 부분들은 더 보완해야 할 것이라 생각한다.
 ## JABADOC
-[AII로!!https://choyongmun.github.io/Project01/Project01/doc/index.html]
+[AII로!!](https://choyongmun.github.io/Project01/Project01/doc/index.html)
